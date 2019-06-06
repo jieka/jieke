@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to  my GitHub Pages
+This is my study test! On this page,I want to write something nothing about study,it is the thing maybe I want to do. It is a joke!
 
-You can use the [editor on GitHub](https://github.com/jieka/jieke/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这是我写的，但我完全不知道我想干些什么，如果你知道，请告诉我，我大概会很开心
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
